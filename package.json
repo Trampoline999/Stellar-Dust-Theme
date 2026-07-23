@@ -4,7 +4,7 @@
   "publisher": "OnkarChougule99",
   "license": "MIT",
   "description": "A beautiful, eye-friendly dark custom theme featuring three variations and custom semantic highlighting for a focused coding experience.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "logo.png",
   "engines": {
     "vscode": "^1.80.0"
@@ -17,7 +17,7 @@
       {
         "label": "Stellar Dust",
         "uiTheme": "vs-dark",
-        "path": "./themes/stellar-dust-deep-blue-color-theme.json"
+        "path": "./themes/stellar-dust-color-theme.json"
       },
       {
         "label": "Stellar Dust Modern",
@@ -27,7 +27,7 @@
       {
         "label": "Stellar Dust Andromeda",
         "uiTheme": "vs-dark",
-        "path": "./themes/stellar-dust-color-theme.json"
+        "path": "./themes/stellar-dust-andromeda-color-theme.json"
       }
     ]
   }
