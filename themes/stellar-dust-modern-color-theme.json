@@ -49,9 +49,9 @@
         "variable.global:cpp": "#a8cc7c",
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
-        "function": "#ebc88d",
+        "function": "#EBF3FF",
         "class:python": {
-            "foreground": "#ebc88d",
+            "foreground": "#EBF3FF",
             "fontStyle": ""
         },
         "*.decorator:python": {
@@ -59,7 +59,7 @@
             "fontStyle": ""
         },
         "method:python": {
-            "foreground": "#ebc88d",
+            "foreground": "#EBF3FF",
             "fontStyle": ""
         },
         "method:cpp": {
@@ -2039,7 +2039,7 @@
             "name": "js console function",
             "scope": "entity.name.function.js,support.function.console.js",
             "settings": {
-                "foreground": "#ebc88d"
+                "foreground": "#EBF3FF"
             }
         },
         {
@@ -2083,7 +2083,7 @@
             "name": "css constant",
             "scope": "constant.other.color",
             "settings": {
-                "foreground": "#ebc88d"
+                "foreground": "#EBF3FF"
             }
         },
         {
