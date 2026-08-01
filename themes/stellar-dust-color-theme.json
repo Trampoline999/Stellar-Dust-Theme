@@ -48,9 +48,9 @@
         "variable.global:cpp": "#a8cc7c",
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
-        "function": "#EBF3FF",
+        "function": "#CDCDCD",
         "class:python": {
-            "foreground": "#EBF3FF",
+            "foreground": "#CDCDCD",
             "fontStyle": ""
         },
         "*.decorator:python": {
@@ -58,7 +58,7 @@
             "fontStyle": ""
         },
         "method:python": {
-            "foreground": "#EBF3FF",
+            "foreground": "#CDCDCD",
             "fontStyle": ""
         },
         "method:cpp": {
@@ -428,7 +428,7 @@
             "name": "support.function.std.rust",
             "scope": "support.function.std.rust",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -498,7 +498,7 @@
             "name": "diff",
             "scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -540,7 +540,7 @@
             "name": "js/ts import keyword",
             "scope": "keyword.operator.expression.import",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -592,7 +592,7 @@
             "name": "java modifier.import",
             "scope": "meta.method.java",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -738,7 +738,7 @@
             "name": "js console function",
             "scope": "entity.name.function,support.function.console",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -857,7 +857,7 @@
             "name": "python function-call.generic",
             "scope": "meta.function-call.generic.python",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1028,7 +1028,7 @@
             "name": "Methods",
             "scope": "keyword.other.special-method",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1155,7 +1155,7 @@
             "scope": "entity.other.attribute-name.id",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1184,7 +1184,7 @@
             "name": "Headings",
             "scope": "markup.heading punctuation.definition.heading, entity.name.section",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1316,7 +1316,7 @@
             "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
             "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1491,7 +1491,7 @@
             "name": "php call-function",
             "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1519,7 +1519,7 @@
             "name": "php goto",
             "scope": "entity.name.goto-label.php,support.other.php",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1554,7 +1554,7 @@
             "name": "python function decorator @",
             "scope": "meta.function.decorator.python",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1651,7 +1651,7 @@
         {
             "scope": "token.info-token",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1707,7 +1707,7 @@
                 "support.type.type.flowtype"
             ],
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -1935,7 +1935,7 @@
                 "meta.method.groovy"
             ],
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -2077,7 +2077,7 @@
                 "constant.character.xi"
             ],
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -2086,7 +2086,7 @@
                 "accent.xi"
             ],
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -2285,7 +2285,7 @@
             "name": "variable.other.readwrite",
             "scope": "variable.other.readwrite",
             "settings": {
-                "foreground": "#82b8ff"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -2299,7 +2299,7 @@
             "name": "js console function",
             "scope": "entity.name.function.js,support.function.console.js",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
@@ -2343,7 +2343,7 @@
             "name": "css constant",
             "scope": "constant.other.color",
             "settings": {
-                "foreground": "#EBF3FF"
+                "foreground": "#CDCDCD"
             }
         },
         {
