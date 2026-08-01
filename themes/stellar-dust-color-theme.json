@@ -48,9 +48,9 @@
         "variable.global:cpp": "#a8cc7c",
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
-        "function": "#D5CED9",
+        "function": "#ebc88d",
         "class:python": {
-            "foreground": "#D5CED9",
+            "foreground": "#ebc88d",
             "fontStyle": ""
         },
         "*.decorator:python": {
@@ -58,7 +58,7 @@
             "fontStyle": ""
         },
         "method:python": {
-            "foreground": "#D5CED9",
+            "foreground": "#ebc88d",
             "fontStyle": ""
         },
         "method:cpp": {
@@ -561,7 +561,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#82B8FF"
+                "foreground": "#9CDCFE"
             }
         },
         {
@@ -1119,7 +1119,7 @@
             "name": "Integers",
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#F78C6C"
+                "foreground": "#E5CE5C"
             }
         },
         {
@@ -1191,7 +1191,7 @@
             "name": "Units",
             "scope": "keyword.other.unit",
             "settings": {
-                "foreground": "#82b8ff"
+                "foreground": "#ebc88d"
             }
         },
         {
@@ -2181,7 +2181,7 @@
             "name": "js/ts italic",
             "scope": "variable.parameter,variable.language.super",
             "settings": {
-                "foreground": "#BBD5ED",
+                "foreground": "#D6D6DD",
                 "fontStyle": ""
             }
         },
@@ -2299,7 +2299,7 @@
             "name": "js console function",
             "scope": "entity.name.function.js,support.function.console.js",
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#ebc88d"
             }
         },
         {
@@ -2343,7 +2343,7 @@
             "name": "css constant",
             "scope": "constant.other.color",
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#ebc88d"
             }
         },
         {
