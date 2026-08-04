@@ -48,7 +48,7 @@
         "variable.global:cpp": "#a8cc7c",
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
-        "function": "#ebc88d",
+        "function": "#e2cb7a",
         "class:python": {
             "foreground": "#ebc88d",
             "fontStyle": ""
@@ -414,7 +414,7 @@
             "name": "variable.parameter.function.language.special.self.python",
             "scope": "variable.parameter.function.language.special.self.python",
             "settings": {
-                "foreground": "#D9D9D9"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -561,7 +561,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#9CDCFE"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -599,7 +599,7 @@
             "name": "java modifier.import",
             "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -960,7 +960,7 @@
                 "variable.function"
             ],
             "settings": {
-                "foreground": "#00E8C6"
+                "foreground": "#e8c44a"
             }
         },
         {
@@ -992,7 +992,7 @@
                 "variable.other.class.ts"
             ],
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#00E8C6"
             }
         },
         {
@@ -1198,14 +1198,14 @@
             "name": "Bold",
             "scope": "markup.bold,todo.bold",
             "settings": {
-                "foreground": "#00E8C6"
+                "foreground": "#e8c44a"
             }
         },
         {
             "name": "Bold",
             "scope": "punctuation.definition.bold",
             "settings": {
-                "foreground": "#D5CED9"
+                "foreground": "#00E8C6"
             }
         },
         {

@@ -4,13 +4,11 @@ A beautiful, dark custom theme for Visual Studio Code featuring customized highl
 
 ## Features
 
-- **Three Variations**:
-  - **Stellar Dust** (Main): Rich, deep blue background tailored for maximum clarity and contrast.
-  - **Stellar Dust Andromeda**: Vibrant dark theme variation with smooth color distribution.
-  - **Stellar Dust Modern**: Clean, contemporary dark aesthetic for modern development workflows.
-- **Eye-friendly**: Deep dark backgrounds designed to reduce eye strain during long sessions.
-- **Syntax Highlighting**: Custom semantic highlighting for enhanced code readability and structure recognition.
-- **Unique Palette**: A carefully selected color palette optimized across languages.
+- **Stellar Aesthetic**: Rich, deep blue background tailored for maximum clarity and contrast.
+- **Eye-friendly**: Deep dark backgrounds designed to reduce eye strain during long coding sessions.
+- **Custom Accent Highlights**: Warm peach accent highlights (`#EFB080`) for functions, methods, types, parameters, and language elements.
+- **Semantic Highlighting**: Built-in semantic token styling for enhanced code readability and structure recognition.
+- **Language Support**: A carefully curated color palette optimized across JavaScript, TypeScript, Python, C++, Rust, Go, Java, PHP, and more.
 
 ## Installation
 
@@ -18,10 +16,7 @@ A beautiful, dark custom theme for Visual Studio Code featuring customized highl
 2. Search for **"Stellar Dust"**.
 3. Click **Install**.
 4. Navigate to **Preferences: Color Theme** (`Cmd+K Cmd+T` or `Ctrl+K Ctrl+T`).
-5. Select your preferred variation from the menu:
-   - **Stellar Dust** (Main Theme)
-   - **Stellar Dust Andromeda**
-   - **Stellar Dust Modern**
+5. Select **Stellar Dust**.
 
 ## Feedback
 
