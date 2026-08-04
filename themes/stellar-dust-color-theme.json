@@ -50,7 +50,7 @@
         "variable.global:cpp": "#a8cc7c",
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
-        "function": "#e18d5f",
+        "function": "#E78B59",
         "class:python": {
             "foreground": "#e2cb7a",
             "fontStyle": ""
@@ -1749,7 +1749,7 @@
                 "variable.parameter.function.js"
             ],
             "settings": {
-                "foreground": "#D9D9D9"
+                "foreground": "#cce5ff"
             }
         },
         {
@@ -2196,8 +2196,8 @@
             "name": "js/ts italic",
             "scope": "variable.parameter,variable.language.super",
             "settings": {
-                "foreground": "#D6D6DD",
-                "fontStyle": ""
+                "foreground": "#cce5ff",
+                "fontStyle": "italic"
             }
         },
         {
@@ -2247,7 +2247,7 @@
                 "constant.language.true"
             ],
             "settings": {
-                "foreground": "#D8DEE9",
+                "foreground": "#cce5ff",
                 "fontStyle": "bold"
             }
         },
@@ -2314,7 +2314,7 @@
             "name": "js console function",
             "scope": "entity.name.function.js,support.function.console.js",
             "settings": {
-                "foreground": "#E5CE5C"
+                "foreground": "#EBC88D"
             }
         },
         {
