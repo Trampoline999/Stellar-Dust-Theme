@@ -576,7 +576,7 @@
             "name": "js/ts variable.other.constant",
             "scope": "variable.other.constant",
             "settings": {
-                "foreground": "#6eb8d4"
+                "foreground": "#52CBEF"
             }
         },
         {
@@ -2247,7 +2247,7 @@
                 "constant.language.true"
             ],
             "settings": {
-                "foreground": "#cce5ff",
+                "foreground": "#D8DEE9",
                 "fontStyle": "bold"
             }
         },
