@@ -1,27 +1,60 @@
 # Stellar Dust Theme
 
-A beautiful, dark custom theme for Visual Studio Code featuring customized highlights and editor styling for a focused coding experience.
+A beautiful, eye-friendly dark custom theme for Visual Studio Code featuring tailored semantic token highlighting for a focused coding experience.
 
-## Features
+---
 
-- **Stellar Aesthetic**: Rich, deep blue background tailored for maximum clarity and contrast.
-- **Eye-friendly**: Deep dark backgrounds designed to reduce eye strain during long coding sessions.
-- **Custom Accent Highlights**: Warm peach accent highlights (`#EFB080`) for functions, methods, types, parameters, and language elements.
-- **Semantic Highlighting**: Built-in semantic token styling for enhanced code readability and structure recognition.
-- **Language Support**: A carefully curated color palette optimized across JavaScript, TypeScript, Python, C++, Rust, Go, Java, PHP, and more.
+## ✨ Features
 
-## Installation
+- 🌌 **Eye-Friendly Dark Aesthetic**: Engineered specifically with deep dark backgrounds to reduce eye strain and fatigue during long coding sessions.
+- ⚡ **Vibrant & Balanced Contrast**: Carefully tuned syntax highlighting designed for maximum code readability and structural focus.
+- 🧠 **Semantic Token Support**: Complete integration with VS Code's semantic highlighting engine for enhanced syntax rendering across functions, parameters, classes, and types.
+- 🎨 **Polyglot Optimization**: Optimized token mappings across JavaScript, TypeScript, Python, C/C++, Rust, Go, Java, PHP, C#, HTML/CSS, JSON, and Markdown.
+- 🖥️ **Sleek UI Integration**: Unified dark aesthetics across the sidebar, activity bar, status bar, panel titles, breadcrumbs, and command palette.
 
-1. Open the **Extensions** sidebar in VS Code (`Cmd+Shift+X` or `Ctrl+Shift+X`).
-2. Search for **"Stellar Dust"**.
-3. Click **Install**.
-4. Navigate to **Preferences: Color Theme** (`Cmd+K Cmd+T` or `Ctrl+K Ctrl+T`).
-5. Select **Stellar Dust**.
+---
 
-## Feedback
+## 🚀 Installation
 
-Found a bug or have a suggestion? Feel free to share your feedback!
+### Option 1: Via VS Code Marketplace
 
-## Enjoy!
+1. Open **VS Code**.
+2. Press `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (macOS) to open the **Extensions** view.
+3. Search for **`Stellar Dust`**.
+4. Click **Install**.
+5. Press `Ctrl+K Ctrl+T` (Windows/Linux) or `Cmd+K Ctrl+T` (macOS) and select **Stellar Dust**.
 
-Happy coding! 🚀
+### Option 2: Quick Open
+
+1. Press `Ctrl+P` (Windows/Linux) or `Cmd+P` (macOS).
+2. Paste the following command and press **Enter**:
+   ```bash
+   ext install OnkarChougule99.stellar-dust
+   ```
+
+---
+
+## ⚙️ Recommended Settings
+
+For the best experience with **Stellar Dust**, we recommend enabling bracket pair colorization and semantic highlighting in your VS Code `settings.json`:
+
+```json
+{
+  "workbench.colorTheme": "Stellar Dust",
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
+}
+```
+
+---
+
+## 🤝 Feedback & Contributions
+
+Issues, suggestions, and feedback are always welcome! Feel free to share your thoughts or submit contributions to help improve the theme.
+
+---
+
+## 📄 License
+
+This theme is released under the [MIT License](https://opensource.org/licenses/MIT).
