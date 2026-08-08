@@ -51,8 +51,7 @@
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
         //  "function": "#E78B59",
-        //"function": "#F69D50",
-        "function": "#EBC88D",
+        "function": "#F69D50",
         "class:python": {
             "foreground": "#e2cb7a",
             "fontStyle": ""
@@ -2334,7 +2333,7 @@
             "name": "js console function",
             "scope": "entity.name.function.js,support.function.console.js",
             "settings": {
-                "foreground": "#EBC88D"
+                "foreground": "#e2cb7a"
             }
         },
         {
