@@ -50,8 +50,9 @@
         "variable.global:cpp": "#a8cc7c",
         "variable.global:c": "#a8cc7c",
         "type:cpp": "#82b8ff",
-        "function": "#E78B59",
-      //  "function": "#D5CED9",
+        //  "function": "#E78B59",
+        //"function": "#F69D50",
+        "function": "#EBC88D",
         "class:python": {
             "foreground": "#e2cb7a",
             "fontStyle": ""
@@ -2206,7 +2207,7 @@
             "scope": "variable.parameter,variable.language.super",
             "settings": {
                 "foreground": "#cce5ff",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
@@ -2333,7 +2334,7 @@
             "name": "js console function",
             "scope": "entity.name.function.js,support.function.console.js",
             "settings": {
-                "foreground": "#e2cb7a"
+                "foreground": "#EBC88D"
             }
         },
         {
