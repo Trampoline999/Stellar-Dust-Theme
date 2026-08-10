@@ -53,7 +53,7 @@
         "type:cpp": "#82b8ff",
         //  "function": "#E78B59",
         // "function": "#F69D50",
-        "function": "#e2cb7a",
+        "function": "#EBC88D",
         "class:python": {
             "foreground": "#e2cb7a",
             "fontStyle": ""
