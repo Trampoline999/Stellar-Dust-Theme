@@ -1,6 +1,15 @@
 # Stellar Dust Theme
 
-A beautiful, eye-friendly dark custom theme for Visual Studio Code featuring tailored semantic token highlighting for a focused coding experience.
+A beautiful, eye-friendly dark custom theme collection for Visual Studio Code featuring tailored semantic token highlighting for a focused coding experience.
+
+---
+
+## 🎨 Theme Variations
+
+**Stellar Dust** comes with two distinct UI variants designed for focused development while using the exact same rich, polyglot syntax highlighting:
+
+- 🌌 **Stellar Dust**: Deep Space Navy UI with vibrant star dust accents.
+- 🌑 **Stellar Dust Midnight**: Sleek Dark Charcoal / Midnight UI for an ultra-clean, pitch-dark workspace.
 
 ---
 
@@ -22,7 +31,7 @@ A beautiful, eye-friendly dark custom theme for Visual Studio Code featuring tai
 2. Press `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (macOS) to open the **Extensions** view.
 3. Search for **`Stellar Dust`**.
 4. Click **Install**.
-5. Press `Ctrl+K Ctrl+T` (Windows/Linux) or `Cmd+K Ctrl+T` (macOS) and select **Stellar Dust**.
+5. Press `Ctrl+K Ctrl+T` (Windows/Linux) or `Cmd+K Ctrl+T` (macOS) and select either **Stellar Dust** or **Stellar Dust Midnight**.
 
 ### Option 2: Quick Open
 
@@ -40,7 +49,7 @@ For the best experience with **Stellar Dust**, we recommend enabling bracket pai
 
 ```json
 {
-  "workbench.colorTheme": "Stellar Dust",
+  "workbench.colorTheme": "Stellar Dust Midnight",
   "editor.semanticHighlighting.enabled": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active"
