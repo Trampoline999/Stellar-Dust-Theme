@@ -2206,7 +2206,7 @@
             "scope": "variable.parameter,variable.language.super",
             "settings": {
                 "foreground": "#cce5ff",
-                "fontStyle": "italic"
+                "fontStyle": ""
             }
         },
         {
