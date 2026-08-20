@@ -335,7 +335,7 @@
                 "punctuation.definition.string.template.end"
             ],
             "settings": {
-                "foreground": "#b8d4a0"
+                "foreground": "#C3E88D"
             }
         },
         {
@@ -1011,8 +1011,7 @@
             "name": "Keyword Control",
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#e8c44a",
-                "fontStyle": "italic"
+                "foreground": "#e8c44a"
             }
         },
         {
@@ -1152,7 +1151,6 @@
             "name": "Attribute IDs",
             "scope": "entity.other.attribute-name.id",
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#D5CED9"
             }
         },
@@ -1160,7 +1158,6 @@
             "name": "Attribute class",
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#e8c44a"
             }
         },
@@ -1210,7 +1207,8 @@
             "name": "markup Italic",
             "scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
             "settings": {
-                "foreground": "#e8c44a"
+                "foreground": "#e8c44a",
+                "fontStyle": "italic"
             }
         },
         {
@@ -2150,7 +2148,7 @@
             "scope": "comment, punctuation.definition.comment",
             "settings": {
                 "foreground": "#5C7A9C",
-                "fontStyle": ""
+                "fontStyle": "italic"
             }
         },
         {
@@ -2187,15 +2185,8 @@
             "name": "comment",
             "scope": "comment.line.double-slash,comment.block.documentation",
             "settings": {
-                "fontStyle": "",
+                "fontStyle": "italic",
                 "foreground": "#5C7A9C"
-            }
-        },
-        {
-            "name": "Python Keyword Control",
-            "scope": "keyword.control.import.python,keyword.control.flow.python",
-            "settings": {
-                "fontStyle": "italic"
             }
         },
         {
@@ -2326,8 +2317,7 @@
             "name": "Keyword Control",
             "scope": "keyword.control.directive.include.cpp",
             "settings": {
-                "foreground": "#a8cc7c",
-                "fontStyle": "italic"
+                "foreground": "#a8cc7c"
             }
         },
         {
@@ -2395,9 +2385,6 @@
             "name": "Font Italic",
             "scope": [
                 "comment",
-                "invalid",
-                "keyword",
-                "entity.other.attribute-name",
                 "markup.italic"
             ],
             "settings": {
