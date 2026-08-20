@@ -1039,7 +1039,13 @@
             "name": "Storage JS TS",
             "scope": "token.storage",
             "settings": {
-                "foreground": "#e8c44a"
+                "foreground": "#FF69B4"
+            }
+        },
+        {
+            "scope": "storage.type",
+            "settings": {
+                "foreground": "#FF69B4"
             }
         },
         {
