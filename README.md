@@ -6,10 +6,8 @@ A beautiful, eye-friendly dark custom theme collection for Visual Studio Code fe
 
 ## 🎨 Theme Variations
 
-**Stellar Dust** comes with two distinct UI variants designed for focused development while using the exact same rich, polyglot syntax highlighting:
-
-- 🌌 **Stellar Dust**: Deep Space Navy UI with vibrant star dust accents.
-- 🌑 **Stellar Dust Modern**: Sleek Dark Charcoal UI for an ultra-clean, pitch-dark workspace.
+- 🌌 **Stellar Dust**: Deep Space Navy UI with vibrant star dust accents and standard typography.
+- ✨ **Stellar Dust Italic**: Deep Space Navy UI with elegant italicized keywords, attributes, and comments (inspired by Andromeda).
 
 ---
 
@@ -31,7 +29,7 @@ A beautiful, eye-friendly dark custom theme collection for Visual Studio Code fe
 2. Press `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (macOS) to open the **Extensions** view.
 3. Search for **`Stellar Dust`**.
 4. Click **Install**.
-5. Press `Ctrl+K Ctrl+T` (Windows/Linux) or `Cmd+K Ctrl+T` (macOS) and select either **Stellar Dust** or **Stellar Dust Modern**.
+5. Press `Ctrl+K Ctrl+T` (Windows/Linux) or `Cmd+K Ctrl+T` (macOS) and select either **Stellar Dust** or **Stellar Dust Italic**.
 
 ### Option 2: Quick Open
 
@@ -49,7 +47,7 @@ For the best experience with **Stellar Dust**, we recommend enabling bracket pai
 
 ```json
 {
-  "workbench.colorTheme": "Stellar Dust Modern",
+  "workbench.colorTheme": "Stellar Dust Italic",
   "editor.semanticHighlighting.enabled": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active"
